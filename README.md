@@ -1,1 +1,3 @@
-# NewU
+# NewU  
+Bugtracker für NewU-RP.
+
